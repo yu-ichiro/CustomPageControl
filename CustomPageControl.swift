@@ -1,6 +1,5 @@
 //
 //  CustomPageControl.swift
-//  drops
 //
 //  Created by Yuichiro on 2015/06/21.
 //  Copyright © 2015年 Yu-ichiro. All rights reserved.
